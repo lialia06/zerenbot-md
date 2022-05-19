@@ -18,7 +18,7 @@ global.APIKeys = {
 }*/
 
 // Ganti apikey lolhuman dan imgbbkey punya lu
-global.LolApiKey = 'hc8fyhce33ncq34uif'
+global.LolApiKey = 'fa9257f6d573a547c4803524'
 global.Imgbb = '501d66b6c274af36071197f10c7420c7'
 global.owner = ['6288239560059']
 global.premium = ['6288239560059']
