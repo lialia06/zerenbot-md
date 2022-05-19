@@ -28,7 +28,7 @@ global.sessionName = 'hisoka'
 global.prefa = ['!','.']
 global.sp = '⭔'
 // Ganti grup WA lu kalo pengen
-global.gwa = 'https://chat.whatsapp.com/LyPlkhIyMwPLnAM43nBCYR'
+global.gwa = 'https://chat.whatsapp.com/IhVoq0Ern4lDZdnSaFYfso'
 global.mess = {
     success: '✓ Success',
     admin: 'Fitur Khusus Admin Group!',
