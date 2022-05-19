@@ -19,11 +19,11 @@ global.APIKeys = {
 
 // Ganti apikey lolhuman dan imgbbkey punya lu
 global.LolApiKey = 'hc8fyhce33ncq34uif'
-global.Imgbb = '7b2fde1f55b9a594d5db403f0a0c2712'
-global.owner = ['6282337245566']
-global.premium = ['6282337245566']
-global.packname = 'BunnyWalker'
-global.author = 'Bot'
+global.Imgbb = '501d66b6c274af36071197f10c7420c7'
+global.owner = ['6288239560059']
+global.premium = ['6288239560059']
+global.packname = 'YansSlebew'
+global.author = 'AulSlemek-Bot'
 global.sessionName = 'hisoka'
 global.prefa = ['!','.']
 global.sp = '⭔'
